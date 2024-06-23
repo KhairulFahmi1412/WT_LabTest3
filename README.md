@@ -1,4 +1,5 @@
-# WT_LabTest3
+# WT_LabTest3 Project Setup 
+- First, clone the github repo into the local workstation.
 
 # Database Setup 
 This program uses MySQL database. For this project, XAMPP is used for development purposes. 
