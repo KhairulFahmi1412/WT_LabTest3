@@ -11,6 +11,4 @@ CREATE TABLE IF NOT EXISTS users (
     email VARCHAR(255) NOT NULL
 );
 
--- Ensure the email field is unique
-ALTER TABLE users
-ADD CONSTRAINT unique_email UNIQUE (email);
+
